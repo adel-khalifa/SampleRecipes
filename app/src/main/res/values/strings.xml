@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SampleRecipes</string>
+    <string name="fat">Fat</string>
+    <string name="calories">Calories</string>
+    <string name="sort_by">Sort Recipes by...</string>
+    <string name="recipe_name">" Recipe name "</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="connection_failed">Connection failed or interrupted</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="details">Details</string>
+    <string name="fats">Fats</string>
+    <string name="carbos">Carbos</string>
+    <string name="description">Description</string>
+    <string name="proteins">Proteins</string>
+    <string name="no_result">No result found</string>
+</resources>
